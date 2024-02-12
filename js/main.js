@@ -12,3 +12,5 @@ let num2 = 37;
 
 let result = `${num1} + ${num2} = ${num1+num2}`;
 console.log(result);
+
+console.log("We are using GIT!");
